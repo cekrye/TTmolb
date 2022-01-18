@@ -1,0 +1,39 @@
+{
+  "mod_elements": [
+    {
+      "name": "EnchantedGApple",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchanted_g_apple"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ttmolb",
+    "modName": "TTmolb",
+    "version": "1.0.0",
+    "author": "Marce, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "lxm.mmgproxy.ttmolb",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
